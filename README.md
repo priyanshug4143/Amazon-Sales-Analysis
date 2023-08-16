@@ -12,7 +12,8 @@ This project aims to analyze Amazon sales data and provide recommendations to bo
 
 # Project Overview
 The project followed the ETL (Extract, Transform, Load) process, starting with data extraction from the Ineuron site. The extracted data was then transformed and analyzed using Python and Jupyter Notebook. EDA techniques were applied to gain insights into the sales data, identify trends, and understand customer behavior. The findings were then loaded into PowerBI to create interactive visualizations and dashboards.
-
+# Dashboard Link :
+https://app.powerbi.com/view?r=eyJrIjoiY2I3YmYyNGItOTE1ZS00NGY1LWE4ZTQtNmFlMDBiNWRlNGJlIiwidCI6IjY2OTNmMmQ3LTA0NjQtNDZiNC05NGU2LTBiY2VlMzFmNTU0NSJ9
 # Project Dashboard
 
 ![Dashboard1](https://github.com/priyanshug4143/Amazon-Sales-Analysis/assets/110805348/8151799b-8083-4e4a-9c8f-1ed6bbdbb025)
